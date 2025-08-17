@@ -21,5 +21,5 @@ Highlights
  - Research and practical application of machine vision system for material characterization and modal response
 
 For more info
-[View my CV](/files/CollinsAerospace2025.pdf){: .btn .btn--primary} 
+[View my CV](/files/CollinsAerospace2025.pdf)
 
