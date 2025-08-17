@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Soon to be Aerospace Engineering Graduate.
+Soon to be Aerospace Engineering Graduate
 
 
 Bio
