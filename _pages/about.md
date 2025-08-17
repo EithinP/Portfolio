@@ -16,7 +16,7 @@ Bio
 
 Highlights
 ======
-16-month coop at Collins Aerospace (RTX)
+16-month coop at Collins Aerospace (RTX) |
 Co-president (2023) and Captain (2022) of Carleton Troitsky Bridge Building Club
 Research and practical application of machine vision system for material characterization and modal response
 
