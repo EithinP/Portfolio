@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Soon to be Aerospace Engineering Graduate
+Soon to be Aerospace Engineering Graduate. Passionate about manufacturing and design.  
+  
+Please Note: This website is currently underdevelopment. Apparently even with a Github template, coding your own website is fairly time intensive. Please check back for updates!
 
 
 Bio

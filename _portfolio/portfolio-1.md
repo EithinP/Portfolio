@@ -17,3 +17,10 @@ For the material characterization system, much work was completed regarding the 
     * Quantified the systems noise-floor (threshold value of a quantity below which measurements are indistinguishable from noise)
     * Performed a bandwidth study on the hardware for the real-time transfer of aquired data 
     * Produced a comprehensive technical report on Digital Image Correlation and the experimental results
+
+## Image Gallery
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="/images/pre_tap1.png" alt="Image aquisition with PFV4" width="300">
+  <img src="/images/osci_hammer.jpg" alt="Oscilloscope and impact hammer setup" width="300">
+  <img src="/images/cad_mounting.png" alt="Mounting mock-up with CatiaV5" width="300">
+</div>
