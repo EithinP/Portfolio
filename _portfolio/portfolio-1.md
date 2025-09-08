@@ -8,7 +8,7 @@ Over the Summer and into the Fall of 2025, I had the pleasure of working in the 
 * A high-speed stereo camera system for modal characterization of an aluminum plane wing specimen, and
 * A stereo camera system for material characterization of specimen undergoing cyclic fatigue in an MTS system
 
-Over the course of the semester, I produced a detailed manual on the setup and considerations for the application of the high-speed DIC system, including data aquisition and post-processing with the GOM Professional suite of tools. My work along culminated with a successful modal characterization experiment with a colleague requiring the data for his Masters Thesis.
+Over the course of the semester, I produced a detailed manual on the setup and considerations for the application of the high-speed DIC system, including data aquisition and post-processing with the GOM Professional suite of tools. My work culminated with a successful modal characterization experiment with a colleague requiring the data for his Masters Thesis.
 For the material characterization system, much work was completed regarding the theoretical background for additional considerations for this system. Phase stepping for framerate limitations, data bandwidth for real time data transfer, and storage solutions were tested, analyzed, and refined for the eventual application of the system.
 
 * Notable Contributions Include:
