@@ -20,12 +20,15 @@ main:
   - title: "Technical Projects"
     url: /Technical-Projects/
         
-  - title: "Blog"
-    url: /year-archive/
+#  - title: "Blog"
+#    url: /year-archive/
 
   - title: "Personal Projects"
     url: /Personal-Projects/
-    
+
+  - title: "Extracurriculars"
+    url: /Extracurriculars/
+      
   - title: "CV"
     url: /cv/
     

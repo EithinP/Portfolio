@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Extracurriculars, Clubs, and Volunteering"
+permalink: /extracurriculars/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.extracurriculars reversed %}
+  {% include archive-single.html %}
+{% endfor %}
