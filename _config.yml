@@ -283,7 +283,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comment: true
   # _personal
   - scope:
       path: ""
@@ -292,7 +292,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comment: true
   # _extracurriculars
   - scope:
       path: ""
@@ -301,7 +301,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comment: true
   # _talks
   - scope:
       path: ""

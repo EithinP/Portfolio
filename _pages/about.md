@@ -24,5 +24,5 @@ Highlights
 
 For more info
 ------
-[View my CV](/files/CollinsAerospace2025.pdf)
+[View my CV](/files/EithinPero.pdf)
 
