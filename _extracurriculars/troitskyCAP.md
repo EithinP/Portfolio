@@ -1,6 +1,6 @@
 ---
 title: "Captain of Troitsky Bridge Building Club Design Team"
-excerpt: "Acted as Captain for a six-member design team, competing at the Troitsky Bridge Building Competition in Montreal, Quebec.
+excerpt: "Acted as Captain for a six-member design team, competing at the Troitsky Bridge Building Competition in Montreal, Quebec"
 collection: extracurriculars
 ---
 

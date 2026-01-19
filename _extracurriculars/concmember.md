@@ -1,6 +1,6 @@
 ---
 title: "Member of Build Team for Concrete Canoe Design Team"
-excerpt: "International engineering competition held at Concordia University in Montreal"
+excerpt: "National Engineering Competition to design, build, and race concrete canoes"
 collection: extracurriculars
 ---
 
