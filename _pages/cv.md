@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[View my CV in .pdf here](/files/EithinPero.pdf)
+
 Education
 ======
 * B.Eng. in Aerospace Engineering, Carleton University
