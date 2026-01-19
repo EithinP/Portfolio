@@ -1,18 +1,11 @@
 ---
 title: "Co-president of Troitsky Bridge Building Engineering and Design Club"
+excerpt: "Co-president for Carleton University Troitsky Bridge Building Club"
 collection: extracurriculars
-type: "Undergraduate course"
-permalink: /extracurriculars/troitskyadmiral
-venue: "Representing Carleton University at Concordia University, Montreal"
 ---
 
-TESTING This is a description of a teaching experience. You can use markdown like any other post.
+Lead a team of 39 students to an engineering competition in Montreal, Ontario. 
 
-Heading 1
-======
+Managed student registration, advising design of members' bridge designs, secured funding for team, produced new club logo and designed and coordinated club merchandise.
 
-Heading 2
-======
-
-Heading 3
-======
+More information coming soon!
