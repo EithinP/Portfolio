@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Aerospace Engineering, Carleton University, Expected December 2025
+* B.Eng. in Aerospace Engineering, Carleton University
 
 Work experience
 ======
@@ -46,14 +46,14 @@ Work experience
   * Optimized productivity by taking note of which method and order of assembly was the most efficient when working with large order jobs and allowed production to move faster than expected
 
     
-Skills
+<!--Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 <!-- Publications
 ======
@@ -73,6 +73,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service and leadership
+<!--Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->

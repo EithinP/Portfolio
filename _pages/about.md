@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Soon to be Aerospace Engineering Graduate. Passionate about manufacturing and design.  
+Aerospace Engineering Graduate. Passionate about manufacturing, troubleshooting systems, and design.  
   
-Please Note: This website is currently underdevelopment. Apparently even with a Github template, coding your own website is fairly time intensive. Please check back for updates!
+Please Note: This website is currently under development. As it turns out, even with a Github template, coding your own website is fairly time intensive. Please check back for updates!
 
 
 Bio
 ======
-5th year of Bachelors of Engineering, specializing in Aerospace Structures and Systems. 
+Bachelors of Engineering Graduate, specializing in Aerospace Structures and Systems. 
 
 Highlights
 ======
