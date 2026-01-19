@@ -1,5 +1,5 @@
 ---
-title: "Captain of Troitsky Bridge Building Club Design Team"
+title: "Member of Troitsky Bridge Building Club Design Team"
 collection: extracurriculars
 type: "Undergraduate course"
 permalink: /extracurriculars/troitskymember
