@@ -20,13 +20,20 @@
       <div class="archive__item">
         {% if f.image_path %}
           <div class="archive__item-teaser">
+              {% if f.url %}
+                <a href="{{ f_url }}">
+              {% endif %}
             <img src=
               {% if f.image_path contains "://" %}
                 "{{ f.image_path }}"
               {% else %}
                 "{{ f.image_path | prepend: "/images/" | prepend: base_path }}"
               {% endif %}
-            alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+              alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+
+              {% if f.url %}
+                </a>
+              {% endif %}
           </div>
         {% endif %}
 
@@ -41,8 +48,8 @@
             </div>
           {% endif %}
 
-          {% if f.url %}
-            <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+          {% if f.btn_label %}
+            <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label }}</a></p>
           {% endif %}
         </div>
       </div>
