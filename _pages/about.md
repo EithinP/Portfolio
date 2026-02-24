@@ -1,10 +1,8 @@
 ---
-permalink: /
+permalink: /about/
 title: "Eithin Pero"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+
 
 feature_row:
   - image_path: personal/mtrainier.jpeg
@@ -44,17 +42,6 @@ feature_row:
     title: ""
     excerpt: ""
 
-cubridge:
-  - image_path: /images/x1.jpg
-    url: /projects/x-project-1/
-    alt: "X project 1"
-  - image_path: /images/x2.jpg
-    url: /projects/x-project-2/
-    alt: "X project 2"
-  - image_path: /images/x3.jpg
-    url: /projects/x-project-3/
-    alt: "X project 3"
-
 ---
 
 Aerospace Engineering Graduate. Passionate about manufacturing, troubleshooting systems, and design.  
@@ -71,17 +58,6 @@ I excel working on multidisciplinary teams with ownership over a particular subs
 In my free time I love to golf, camp, hike, and snowboard.  
 
 {%include feature_row %}
-
-
-
-Highlights
-======
-Click on any of my highlights below to read more.
- - 16-month coop at Collins Aerospace (RTX)
- {% include gallery id="cubridge" class="gallery-crop" %}
- - Co-president (2023) and Captain (2022) of Carleton Troitsky Bridge Building Club
- - Research and practical application of machine vision system for material characterization and modal response
- - Systems Engineer responsible for a blended wing-body, unmanned aerial vehicle MLG, NLG, control surfaces, mapping module and more during my 2024-25 Capstone Project.
 
 For more info
 ------
