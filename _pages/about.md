@@ -8,39 +8,39 @@ redirect_from:
 
 feature_row:
   - image_path: personal/mtrainier.jpeg
-    alt: "Testing"
+    alt: "Mt. Rainier"
     title: ""
     excerpt: ""
   - image_path: personal/canoe.jpeg
-    alt: "Testing"
+    alt: "canoeing"
     title: ""
     excerpt: ""
   - image_path: personal/snowboarding.jpeg
-    alt: "Testing"
+    alt: "snowboarding"
     title: ""
     excerpt: ""
   - image_path: personal/adk.jpeg
-    alt: "Testing"
+    alt: "adirondacks"
     title: ""
     excerpt: ""
   - image_path: personal/hiking.jpg
-    alt: "Testing"
+    alt: "adirondacks"
     title: ""
     excerpt: ""
   - image_path: personal/cross.jpeg
-    alt: "Testing"
+    alt: "arizona"
     title: ""
     excerpt: ""
   - image_path: personal/grotto.jpeg
-    alt: "Testing"
+    alt: "bruce peninsula"
     title: ""
     excerpt: ""
   - image_path: personal/canyon.jpeg
-    alt: "Testing"
+    alt: "grand canyon"
     title: ""
     excerpt: ""
   - image_path: personal/beach.jpg
-    alt: "Testing"
+    alt: "oregon"
     title: ""
     excerpt: ""
 
