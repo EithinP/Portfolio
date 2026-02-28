@@ -1,6 +1,6 @@
 ---
 title: "Blended Wing-Body Capstone Project"
-excerpt: "Systems Engineer responsible for control surface actuation, NLG and MLG design and testing, NLG steering implementation <br/><img src='/images/BWBFullPic.png'>"
+excerpt: "Systems Engineer responsible for control surface actuation, NLG and MLG design and testing, NLG steering implementation <br/><img src='/images/bwb/BWBFullPic.png'>"
 collection: portfolio
 ---
 [View my final report](/files/TR2-Systems2-EithinPero.pdf)
@@ -16,11 +16,11 @@ I will be updating this portfolio item with more discussion on specific solution
 
 ## Image Gallery
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="/images/MLGEngDWG.png" alt="MLG Diagram" width="500">
-  <img src="/images/MLGFrontBack.png" alt="Produced MLG" width="500">
-  <img src="/images/NLGCad.png" alt="NLG Digram" width="500">
-  <img src="/images/Servomount.png" alt="Servo Mount for Steering Mechanism" width="500">
-  <img src="/images/SteeringMechanism.png" alt="Steering Mechanism" width="500">
-  <img src="/images/WTT.png" alt="Wind Tunnel Testing of Elevon Actuation" width="500">
-  <img src="/images/ElevonLinkasgeModel.png" alt="Elevon Integration and Actuation Linkage Model" width="500">    
+  <img src="/images/bwb/MLGEngDWG.png" alt="MLG Diagram" width="500">
+  <img src="/images/bwb/MLGFrontBack.png" alt="Produced MLG" width="500">
+  <img src="/images/bwb/NLGCad.png" alt="NLG Digram" width="500">
+  <img src="/images/bwb/Servomount.png" alt="Servo Mount for Steering Mechanism" width="500">
+  <img src="/images/bwb/SteeringMechanism.png" alt="Steering Mechanism" width="500">
+  <img src="/images/bwb/WTT.png" alt="Wind Tunnel Testing of Elevon Actuation" width="500">
+  <img src="/images/bwb/ElevonLinkasgeModel.png" alt="Elevon Integration and Actuation Linkage Model" width="500">    
 </div>

@@ -8,10 +8,10 @@ redirect_from:
 
 
 modal:
-  - image_path: 3.2Setup.jpg
+  - image_path: lab/3.2Setup.jpg
     url: /portfolio/portfolio-1/
     alt: "DIC"
-  - image_path: BWBFullPic.png
+  - image_path: bwb/BWBFullPic.png
     url: /portfolio/portfolio-2/
     alt: "BWB UAV"
 

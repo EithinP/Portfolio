@@ -22,10 +22,10 @@ repository               : "EithinP/Portfolio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "personal/profile.jpg"
   name             : "Eithin Pero"
   pronouns         : # example: "she/her"  
-  bio              : "An engineering graduate from Ontario"
+  bio              : "An aerospace engineering graduate from Ontario"
   location         : "Ottawa, Ontario"
   employer         : "Carleton University"
   uri              : # URL
