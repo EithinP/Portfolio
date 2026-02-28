@@ -37,7 +37,7 @@ feature_row:
     alt: "grand canyon"
     title: ""
     excerpt: ""
-  - image_path: personal/beach.jpg
+  - image_path: personal/beach2.png
     alt: "oregon"
     title: ""
     excerpt: ""
