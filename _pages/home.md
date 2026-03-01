@@ -6,15 +6,30 @@ redirect_from:
   - /home/
   - /home.html
 
-
-modal:
+feature_row:
   - image_path: lab/3.2Setup.jpg
+    alt: "High-speed DIC setup"
+    title: "High-Speed DIC Validation"
+    excerpt: "Set up, calibrated, and validated a high-speed DIC system for modal testing"
     url: /portfolio/portfolio-1/
-    alt: "DIC"
+feature_row2:
   - image_path: bwb/BWBFullPic.png
+    alt: "Blended Wing-Body UAV"
+    title: "Design, Analysis, and Validation of Blended Wing-Body Subsystems"
+    excerpt: "Owned design + V&V of landing gear and elevon subsystems"
     url: /portfolio/portfolio-2/
-    alt: "BWB UAV"
-
+feature_row3:
+  - image_path: collins/collins.jpeg
+    alt: "16-month coop at collins aerospace"
+    title: "16-month Coop at Collins Aerospace"
+    excerpt: "Contributed to standard work creation, tooling design and validation, process improvement/lean manufacturing initiatives, creation of custom CMMS system"
+    url: /cv/
+feature_row4:
+  - image_path: bridge/bestcoach.JPEG
+    alt: "award for best coaches"
+    title: "Co-President (2024) and Team Captain (2023) of Engineering Design Team"
+    excerpt: "Led a 39-member delegation to Concordia University for an international engineering design competition"
+    url: /extracurriculars/troitskyadmiral/
 ---
 
 Aerospace Engineering Graduate. Passionate about manufacturing, troubleshooting systems, and design.  
@@ -28,18 +43,19 @@ Bachelors of Engineering Graduate, specializing in Aerospace Structures and Syst
 I enjoy optimizing issues, logistics, design, and physical systems.
 I excel working on multidisciplinary teams with ownership over a particular subsystem.
 
-For more about me, [Click Here](/about/)
+For more about me, [Click Here](/about/).
 
 
 
 Highlights
 ======
-Click on any of my highlights below to read more.
- - [16-month coop at Collins Aerospace (RTX)](/cv/)
- - [Co-president (2023) and Captain (2022) of Carleton Troitsky Bridge Building Club](/extracurriculars/troitskyadmiral/)
- {% include gallery id="modal" class="gallery-crop" %}
- - [Research and practical application of machine vision system for material characterization and modal response](portfolio/portfolio-1/)
- - [Systems Engineer responsible for a blended wing-body, unmanned aerial vehicle MLG, NLG, control surfaces, mapping module and more during my 2024-25 Capstone Project](/portfolio/portfolio-2/)
+Click on any of the images below to read more.
+<div class="homepage-highlights">
+ {% include feature_row_home id="feature_row2" type="left" %}
+ {% include feature_row_home type="right"%}
+ {% include feature_row_home id="feature_row3" type="left"%}
+ {% include feature_row_home id="feature_row4" type="right"%}
+</div> 
 
 For more info
 ------
