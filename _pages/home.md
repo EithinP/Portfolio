@@ -7,25 +7,25 @@ redirect_from:
   - /home.html
 
 feature_row:
-  - image_path: lab/3.2Setup.jpg
+  - image_path: lab/setup_square.jpg
     alt: "High-speed DIC setup"
     title: "High-Speed DIC Validation"
     excerpt: "Set up, calibrated, and validated a high-speed DIC system for modal testing"
     url: /portfolio/portfolio-1/
 feature_row2:
-  - image_path: bwb/BWBFullPic.png
+  - image_path: bwb/WTT_square.png
     alt: "Blended Wing-Body UAV"
     title: "Design, Analysis, and Validation of Blended Wing-Body Subsystems"
     excerpt: "Owned design + V&V of landing gear and elevon subsystems"
     url: /portfolio/portfolio-2/
 feature_row3:
-  - image_path: collins/collins.jpeg
+  - image_path: collins/collins_square.jpeg
     alt: "16-month coop at collins aerospace"
     title: "16-month Coop at Collins Aerospace"
     excerpt: "Contributed to standard work creation, tooling design and validation, process improvement/lean manufacturing initiatives, creation of custom CMMS system"
     url: /cv/
 feature_row4:
-  - image_path: bridge/bestcoach.JPEG
+  - image_path: bridge/award.JPEG
     alt: "award for best coaches"
     title: "Co-President (2024) and Team Captain (2023) of Engineering Design Team"
     excerpt: "Led a 39-member delegation to Concordia University for an international engineering design competition"
