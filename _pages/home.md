@@ -9,26 +9,26 @@ redirect_from:
 feature_row:
   - image_path: lab/setup_square.jpg
     alt: "High-speed DIC setup"
-    title: "High-Speed DIC Validation"
-    excerpt: "Set up, calibrated, and validated a high-speed DIC system for modal testing"
+    title: "Digital Image Correlation (DIC) System Validation"
+    excerpt: "Designed, calibrated, and validated a high-speed DIC system for modal characterization of aerospace structures."
     url: /portfolio/portfolio-1/
 feature_row2:
   - image_path: bwb/WTT_square.png
     alt: "Blended Wing-Body UAV"
-    title: "Design, Analysis, and Validation of Blended Wing-Body Subsystems"
-    excerpt: "Owned design + V&V of landing gear and elevon subsystems"
+    title: "Blended Wing-Body UAV Capstone"
+    excerpt: "Owned design, integration, and validation of landing gear and control surface actuation subsystems for a blended wing-body UAV."
     url: /portfolio/portfolio-2/
 feature_row3:
   - image_path: collins/collins_square.jpeg
     alt: "16-month coop at collins aerospace"
-    title: "16-month Coop at Collins Aerospace"
-    excerpt: "Contributed to standard work creation, tooling design and validation, process improvement/lean manufacturing initiatives, creation of custom CMMS system"
+    title: "Collins Aerospace (16-Month Engineering Co-op)"
+    excerpt: "Led process improvement and tooling development initiatives across multiple aerospace programs, supporting manufacturing and validation workflows."
     url: /cv/
 feature_row4:
   - image_path: bridge/award.JPEG
     alt: "award for best coaches"
-    title: "Co-President (2024) and Team Captain (2023) of Engineering Design Team"
-    excerpt: "Led a 39-member delegation to Concordia University for an international engineering design competition"
+    title: "Troitsky Bridge Engineering & Design Club"
+    excerpt: "Progressed from team member to captain and co-president, leading structural design and coordinating a 39-member delegation at an international engineering competition."
     url: /extracurriculars/troitskyadmiral/
   
 feature_row_more:

@@ -9,7 +9,7 @@ excerpt: >
 collection: portfolio
 ---
 
-Over the Summer and into the Fall of 2025, I had the pleasure of working in the ASME Lab at Carleton University under the supervision of Professor Mostafa El Sayed for a directed studies endeavor. The scope of the project was to understand the fundamentals of machine vision for DIC applications and the practical considerations for usage of these systems through the experimental setup and data aquisition from two DIC systems: 
+Over the Summer and into the Fall of 2025, I had the pleasure of working in the Aerospace Structures and Materials Engineering (ASME) Lab at Carleton University under the supervision of Professor Mostafa El Sayed for a directed studies endeavor. The scope of the project was to understand the fundamentals of machine vision for DIC applications and the practical considerations for usage of these systems through the experimental setup and data aquisition from two DIC systems: 
 * A high-speed stereo camera system for modal characterization of an aluminum plane wing specimen, and
 * A stereo camera system for material characterization of specimen undergoing cyclic fatigue in an MTS system
 
