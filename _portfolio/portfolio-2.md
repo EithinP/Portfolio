@@ -43,7 +43,7 @@ This system was taken from concept, to CAD, to product in less than 4 days and w
 
 <p align="center">
   <img src="/images/bwb/steering_model.png" width="280">
-  <img src="/images/bwb/servomount.png" width="300">
+  <img src="/images/bwb/Servomount.png" width="300">
 </p>
 
 The design used quickly obtainable parts including a D-profile rotary shaft, aluminum servo horns, circular adhesive ready nuts, a shaft collar, and thread adapters, all to transmit servo torque from within the nose of the aircraft linearly to the NLG. To mount the servo within the nose of the aircraft, a modular, variable-height, design was created to facilitate easy reponsitioning of the servo relative to the ground in the event of a under- or over-sized cut on the shaft.
