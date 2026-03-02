@@ -1,6 +1,11 @@
 ---
 title: "Blended Wing-Body Capstone Project"
-excerpt: "Systems Engineer responsible for control surface actuation, NLG and MLG design and testing, NLG steering implementation <br/><img src='/images/bwb/BWBFullPic.png'>"
+excerpt: >
+  <strong>Type:</strong> Aerospace Systems Capstone<br>
+  <strong>Role:</strong> Systems Engineer (Subsystem Owner)<br>
+  <strong>Focus:</strong> Control surface actuation, NLG/MLG design, steering implementation<br>
+  <strong>Outcome:</strong> Designed, integrated, and tested flight-ready subsystems<br>
+  <img src="/images/bwb/BWBFullPic.png" style="width:100%; max-width:520px; height:auto; border-radius:8px; margin-top:0.5rem;">
 collection: portfolio
 ---
 [View my final report](/files/TR2-Systems2-EithinPero.pdf)

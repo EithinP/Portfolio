@@ -1,7 +1,14 @@
 ---
-title: "This website!"
-excerpt: "This website is a heavily customized version of academic pages on Github <br/><img src='/images/website/WebsiteSS.png'>"
+title: "This website"
+excerpt: >
+  <strong>Type:</strong> Personal Software Project<br>
+  <strong>Role:</strong> Designer & Developer<br>
+  <strong>Focus:</strong> Jekyll static-site customization, layout restructuring, deployment workflow<br>
+  <strong>Outcome:</strong> Fully deployed portfolio with structured project navigation<br>
+  <img src="/images/website/WebsiteSS.png" style="width:100%; max-width:520px; height:auto; border-radius:8px; margin-top:0.5rem;">
 collection: personal
+header:
+    teaser: /images/website/WebsiteSS.png
 ---
 I have had the idea to create a portfolio website under my own name for years and am currently making my vision a reality. For interviews I have always been the type to carry around a portfolio file to provide a visual look into my work and a website allows me to do this from anywhere.
 

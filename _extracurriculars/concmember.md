@@ -1,6 +1,10 @@
 ---
-title: "Member of Build Team for Concrete Canoe Design Team"
-excerpt: "National Engineering Competition to design, build, and race concrete canoes"
+title: "Build Team Member - Concrete Canoe Engineering & Design Club"
+excerpt: >
+  <strong>Type:</strong> Engineering Design Competition<br>
+  <strong>Role:</strong> Build Team Member<br>
+  <strong>Focus:</strong> Fabrication, material development, structural integration<br>
+  <strong>Outcome:</strong> Competed at National Engineering Competition<br>
 collection: extracurriculars
 ---
 

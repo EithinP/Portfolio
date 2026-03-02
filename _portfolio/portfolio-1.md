@@ -1,6 +1,11 @@
 ---
 title: "Digital Image Correlation for Modal and Material Characterization"
-excerpt: "Conducted theoretical study for and experimental setup of a high-speed Digital Image Correlation (DIC) system and a low-speed material characterization DIC system in the Aerospace Structures and Material Characterization (ASME) Laboratory at Carleton University <br/><img src='/images/lab/3.2Setup.jpg' width='500' height='300'>"
+excerpt: >
+  <strong>Type:</strong> Laboratory Systems Development<br>
+  <strong>Role:</strong> Experimental Setup & Validation Lead<br>
+  <strong>Focus:</strong> High-speed modal DIC & low-speed material characterization system<br>
+  <strong>Outcome:</strong> Calibrated and validated test systems for structural experiments<br>
+  <img src="/images/lab/3.2Setup.jpg" style="width:100%; max-width:520px; height:auto; border-radius:8px; margin-top:0.5rem;">
 collection: portfolio
 ---
 

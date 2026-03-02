@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Portfolio"
 title_separator          : "-"
 name                     : &name "Eithin Pero"
-description              : &description "An aerospace engineering student with a passion for manufacturing and design"
+description              : &description "Aerospace engineering graduate focused on structures, subsystem ownership, and system validation."
 url                      : https://www.eithin.ca # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "EithinP/Portfolio"
@@ -25,9 +25,9 @@ author:
   avatar           : "personal/ring.jpeg"
   name             : "Eithin Pero"
   pronouns         : # example: "she/her"  
-  bio              : "An aerospace engineering graduate from Ontario"
+  bio              : Aerospace engineering graduate focused on structures, subsystem ownership, and system validation.
   location         : "Ottawa, Ontario"
-  employer         : "Carleton University"
+  employer         : #"Carleton University"
   uri              : # URL
   email            : "eithin@eithinpero.com" 
 

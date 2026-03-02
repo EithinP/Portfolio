@@ -44,22 +44,15 @@ feature_row:
 
 ---
 
-Aerospace Engineering Graduate. Passionate about manufacturing, troubleshooting systems, and design.  
-  
-**Please Note:** This website is currently under development. As it turns out, even with a Github template, coding your own website is fairly time intensive. Please check back for updates!
+I am an Aerospace Engineering graduate from Carleton University specializing in structures and systems. I graduated with a 10.28/12 CGPA (3.79/4 GPA).
 
+I enjoy tinkering on projects (such as this website). I'm drawn to problems that can be optimized methodically, working within constraints, testing assumptions, and proving that a solution truly works.
 
-Bio
-======
-Bachelors of Engineering Graduate, specializing in Aerospace Structures and Systems. Graduated with a 10.28/12 CGPA (3.79/4 GPA).
-I enjoy optimizing issues, logistics, design, and physical systems.
-I excel working on multidisciplinary teams with ownership over a particular subsystem.
+Outside of engineering, I like being outside. I enjoy golfing, camping, hiking, and snowboarding, among other things.  
 
-In my free time I love to golf, camp, hike, and snowboard.  
+Below is a collection of some memorable trips, which doubled as a good excuse to experiment with the gallery feature.
 
 {%include feature_row %}
 
-For more info
-------
-[View my CV](/files/EithinPero.pdf)
+
 

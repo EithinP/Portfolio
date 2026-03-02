@@ -40,24 +40,15 @@ feature_row_more:
     btn_label: "View All Extracurriculars"
 ---
 
-Aerospace Engineering Graduate. Passionate about manufacturing, troubleshooting systems, and design.  
-  
-**Please Note:** This website is currently under development. As it turns out, even with a Github template, coding your own website is fairly time intensive. Please check back for updates!
+Aerospace Engineering graduate specilizing in structures and systems integration. My work focuses on owning physical subsystems from design through validation, ensuring concepts translate into manufacturable and testable hardware.
 
+I have led subsystem development in flight systems, built and calibrated experimental test setups, and worked within multidisciplinary teams where engineering decisions directly impact performance and reliability.
 
-Bio
+For more background, you can read more [about me](/about/).
+
+Selected Work
 ======
-Bachelors of Engineering Graduate, specializing in Aerospace Structures and Systems. Graduated with a 10.28/12 CGPA (3.79/4 GPA).
-I enjoy optimizing issues, logistics, design, and physical systems.
-I excel working on multidisciplinary teams with ownership over a particular subsystem.
-
-For more about me, [Click Here](/about/).
-
-
-
-Highlights
-======
-Click on any of the images below to read more.
+Below are selected projects demonstrating subsystem ownership, system validation and leadership in technical environments. Click on any of the images below to read more.
 <div class="homepage-highlights">
  {% include feature_row_home id="feature_row2" type="left" %}
  {% include feature_row_home type="right"%}
@@ -66,7 +57,7 @@ Click on any of the images below to read more.
 </div> 
 For more projects, feel free to browse my [Technical Projects](/Technical-Projects), [Personal Projects](/Personal-Projects), and [Extracurriculars](/extracurriculars).
 
-Work Experience
+Resume
 ------
-[View my CV](/files/EithinPero.pdf)
+[Download CV](/files/EithinPero.pdf)
 
