@@ -85,10 +85,7 @@ The elevons and winglets were reconstructed similarly to the wing while the fuse
 
 ## Image Gallery
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="/images/bwb/MLGEngDWG.png" alt="MLG Diagram" width="500">
   <img src="/images/bwb/MLGFrontBack.png" alt="Produced MLG" width="500">
-  <img src="/images/bwb/NLGCad.png" alt="NLG Digram" width="500">
-  <img src="/images/bwb/Servomount.png" alt="Servo Mount for Steering Mechanism" width="500">
   <img src="/images/bwb/SteeringMechanism.png" alt="Steering Mechanism" width="500">
   <img src="/images/bwb/WTT.png" alt="Wind Tunnel Testing of Elevon Actuation" width="500">
   <img src="/images/bwb/ElevonLinkasgeModel.png" alt="Elevon Integration and Actuation Linkage Model" width="500">    
