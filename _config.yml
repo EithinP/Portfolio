@@ -247,8 +247,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
+      comments: false #changed from true to false to remove comments from posts
+      share: false #changed from true to false to remove share buttons from posts
       related: true
   # _pages
   - scope:
@@ -264,8 +264,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false #changed from true to false to remove share buttons from teaching items
+      comments: false #changed from true to false to remove comments from teaching items
   # _publications
   - scope:
       path: ""
@@ -273,8 +273,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false #changed from true to false to remove share buttons from publication items
+      comments: false #changed from true to false to remove comments from publication items
   # _portfolio
   - scope:
       path: ""
@@ -282,8 +282,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
+      share: false #changed from true to false to remove share buttons from portfolio items
+      comment: false #changed from true to false to remove comments from portfolio items
   # _personal
   - scope:
       path: ""
@@ -291,8 +291,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
+      share: false #changed from true to false to remove share buttons from personal items
+      comment: false #changed from true to false to remove comments from personal items
   # _extracurriculars
   - scope:
       path: ""
@@ -300,8 +300,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
+      share: false #changed from true to false to remove share buttons from extracurricular items
+      comment: false #changed from true to false to remove comments from extracurricular items
   # _talks
   - scope:
       path: ""
