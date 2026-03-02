@@ -8,7 +8,6 @@ excerpt: >
   <img src="/images/bwb/BWBFullPic.png" style="width:100%; max-width:520px; height:auto; border-radius:8px; margin-top:0.5rem;">
 collection: portfolio
 ---
-[View my final report](/files/TR2-Systems2-EithinPero.pdf)
 
 Through the 2024-2025 academic year, I was in a team of 17 members to design, analyse, and build a blended wing-body UAV drone. My personal role was that of the Systems Engineer, with many responsibilities in this interdisciplinary team. Core responsibilities and contributions include: 
 * Landing gear subsystem constraint identification, global positioning, and sizing
