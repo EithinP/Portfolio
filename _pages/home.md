@@ -30,6 +30,14 @@ feature_row4:
     title: "Co-President (2024) and Team Captain (2023) of Engineering Design Team"
     excerpt: "Led a 39-member delegation to Concordia University for an international engineering design competition"
     url: /extracurriculars/troitskyadmiral/
+  
+feature_row_more:
+  - url: /Technical-Projects/
+    btn_label: "Technical Projects: View All"
+  - url: /Personal-Projects/
+    btn_label: "View all Personal Projects"
+  - url: /extracurriculars/
+    btn_label: "View All Extracurriculars"
 ---
 
 Aerospace Engineering Graduate. Passionate about manufacturing, troubleshooting systems, and design.  
@@ -56,8 +64,9 @@ Click on any of the images below to read more.
  {% include feature_row_home id="feature_row3" type="left"%}
  {% include feature_row_home id="feature_row4" type="right"%}
 </div> 
+For more projects, feel free to browse my [Technical Projects](/Technical-Projects), [Personal Projects](/Personal-Projects), and [Extracurriculars](/extracurriculars).
 
-For more info
+Work Experience
 ------
 [View my CV](/files/EithinPero.pdf)
 

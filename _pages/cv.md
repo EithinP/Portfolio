@@ -21,7 +21,7 @@ Work experience
   SAIL Ottawa
   * Conveyed technical product knowledge to a clientele of varying expertise enabling quick identification of customer needs
 
-* May 2025 - Present: Research Assistant  
+* May 2025 - Dec 2025: Research Assistant  
   Aerospace Structures and Materials Engineering (ASME) Lab, Carleton University
   * Implemented high-speed dynamic digital image correlation (DIC) techniques using GOM Correlate to validate the modal response of an aluminum wing specimen subjected to impulse loading
   * Evaluated multiple rigid mounting configuration for a fixed-free boundary condition, identifying and implementing a T-bar clamp solution that minimized unwanted vibration
