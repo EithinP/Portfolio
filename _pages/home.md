@@ -59,5 +59,5 @@ For more projects, feel free to browse my [Technical Projects](/Technical-Projec
 
 Resume
 ------
-[Download CV](/files/EithinPero.pdf)
+[Download CV](/files/EithinPero_Sys.pdf)
 
